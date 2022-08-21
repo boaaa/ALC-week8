@@ -9,7 +9,7 @@ This was week 8, building a betting game on Optimism.
 ## Overview Info
 
 Languages: JavaScript, Solidity
-Tools: Optimistic Kovan
+Tools: Optimistic Goerli
 
 ## This tutorial covers:
 
@@ -20,12 +20,5 @@ Tools: Optimistic Kovan
 ## Technology/Websites used:
 
 - Optimism
-- Optimistic Kovan
+- Optimistic Goerli
 - Alchemy
-
-## To Get Started
-
-1. Clone Repo
-   ```sh
-   git clone https://github.com/MSBivens/road-to-web3-week8-betting-game
-   ```
