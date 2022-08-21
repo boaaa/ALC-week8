@@ -16,9 +16,9 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
 module.exports = {
   solidity: "0.8.4",
   networks: {
-    "optimistic-kovan": {
+    "optimism-goerli": {
       url: process.env.URL,
-      accounts: { mnemonic: process.env.MNEMONIC },
+      accounts: [process.env.MNEMONIC]
     },
   },
 };
