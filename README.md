@@ -18,4 +18,4 @@ MNEMONIC="<YOUR_PRIVATE_KEY>"
 - make sure you have eth on optimism goerli
 - enjoy the game
 
-Thanks to @MSBivens for the this code
+Thanks to @MSBivens for the original project
